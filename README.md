@@ -1,9 +1,7 @@
+<!-- ============================================================================ -->
 <!--  GITHUB PROFILE README  →  paste this into the  GunalHincal/GunalHincal  repo -->
-
 <!--  All image/file paths are ABSOLUTE (point to GunalHincal.github.io repo),     -->
-
 <!--  so nothing breaks when this lives in a different repo.                       -->
-
 <!-- ============================================================================ -->
 
 <p align="center">
@@ -70,41 +68,31 @@ Across close to **7 years of professional experience** — including a strong pr
 ## 💼 `02` · Experience
 
 ### `Dec 2025 – Present` &nbsp; Specialist, Business Analyst (AI & GenAI Products)
-
 **Akbank Technology** · via Etiya
-
 - Contributing to Generative AI and digital banking initiatives within Akbank's AI and Technology Architecture teams.
 - Translating complex business requirements into functional GenAI specifications — product flows, data requirements and integration touchpoints.
 - Supporting the full lifecycle of AI initiatives from discovery and PoC to production rollout.
 - Driving governance-aligned deployments through risk evaluation, compliance checks and production-readiness assessments.
 
 ### `Aug 2025 – Present` &nbsp; Private AI Instructor
-
 **Independent** · Remote
-
 - Applied AI training for business professionals — LLM integration, prompt engineering and automation platforms.
 - Hands-on sessions around document processing, workflow automation and data-assisted decision-making.
 
 ### `Aug 2025 – Dec 2025` &nbsp; Enterprise Generative AI Solutions Architect
-
 **Skymod Technology** · İzmir
-
 - Designed enterprise GenAI and RAG-based assistants for manufacturing, banking and retail clients.
 - Developed multi-agent workflows for data retrieval, SQL reasoning and automated reporting on the Skystudio platform.
 - Led prompt engineering and context design, building structured frameworks and memory-driven pipelines.
 
 ### `Feb 2024 – Jan 2025` &nbsp; AI/ML Solutions Architect
-
 **Practicus AI** · Remote
-
 - Delivered platform-agnostic AI/ML solutions for B2B clients, improving data pipeline performance and model reliability.
 - Translated business challenges into scalable AI and data science solutions with stakeholders.
 - Supported product testing, validation and release readiness for AI-integrated products.
 
 ### `Jan 2023 – Nov 2025` &nbsp; Teaching Assistant & Bootcamp Mentor
-
 **Miuul** · Remote
-
 - Mentored students across Data Science, Machine Learning and AI bootcamps.
 - Led workshops on Python, feature engineering, predictive modeling and visualization with industry use cases.
 
@@ -117,13 +105,13 @@ Across close to **7 years of professional experience** — including a strong pr
 <table>
 <tr>
 <td width="50%" valign="top">
-<h4>🧾 Document Intelligence SaaS  <code>SaaS · Live</code></h4>
+<h4>🧾 Document Intelligence SaaS &nbsp;<code>SaaS · Live</code></h4>
 Production-ready SaaS built with Flask and the Claude Vision API. Extracts structured data from scanned invoices, generates pivot-table Excel exports and serves a bilingual TR/EN dashboard with PII masking and KVKK compliance.<br><br>
 <code>Flask</code> · <code>Claude Vision</code> · <code>Excel Automation</code><br>
 <a href="https://document-intelligence-vaqj.onrender.com">🔗 Live</a>
 </td>
 <td width="50%" valign="top">
-<h4>📖 Book-Based RAG Chatbot  <code>RAG · Live</code></h4>
+<h4>📖 Book-Based RAG Chatbot &nbsp;<code>RAG · Live</code></h4>
 Retrieval-Augmented Generation chatbot for the book <em>Megapik Yeniden</em> — contextual semantic querying of a full-length book, deployed as a live web application.<br><br>
 <code>Gemini API</code> · <code>ChromaDB</code> · <code>FastAPI</code><br>
 <a href="https://megapikyenidenchatbot-production.up.railway.app">🔗 Live</a> · <a href="https://github.com/GunalHincal/Megapik_Yeniden_Chatbot">💻 Code</a>
@@ -131,13 +119,13 @@ Retrieval-Augmented Generation chatbot for the book <em>Megapik Yeniden</em> —
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4>🧠 Azure OCR API  <code>Open Source</code></h4>
+<h4>🧠 Azure OCR API &nbsp;<code>Open Source</code></h4>
 Scalable RESTful API that automates text extraction from images and documents, supporting digitalization workflows and structured data processing.<br><br>
 <code>Azure Computer Vision</code> · <code>FastAPI</code><br>
 <a href="https://github.com/GunalHincal/azure-ocr-api">💻 Code</a>
 </td>
 <td width="50%" valign="top">
-<h4>🎧 Speech-to-Text Transcription App  <code>Speech AI</code></h4>
+<h4>🎧 Speech-to-Text Transcription App &nbsp;<code>Speech AI</code></h4>
 Web app that transcribes audio/video up to 500MB into TXT, SRT and JSON, with an integrated mini-game to engage users during processing. Designed for SaaS deployment.<br><br>
 <code>FastAPI</code> · <code>OpenAI Whisper</code><br>
 <a href="https://github.com/GunalHincal/whisper-audio-to-text-app">💻 Code</a>
@@ -145,24 +133,24 @@ Web app that transcribes audio/video up to 500MB into TXT, SRT and JSON, with an
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4>🖼️ Quality Control Pipeline  <code>Computer Vision</code></h4>
+<h4>🖼️ Quality Control Pipeline &nbsp;<code>Computer Vision</code></h4>
 Image-based defect detection and packaging inspection system for a manufacturing client (Dardanel), with annotated outputs designed for non-technical QC operators.<br><br>
 <code>FastAPI</code> · <code>Claude Vision</code>
 </td>
 <td width="50%" valign="top">
-<h4>📈 Retail Demand Forecasting  <code>Forecasting</code></h4>
+<h4>📈 Retail Demand Forecasting &nbsp;<code>Forecasting</code></h4>
 Store-level forecasting over 553K rows for Cevher Wheel — trend analysis, seasonal patterns and actionable inventory recommendations for management.<br><br>
 <code>LightGBM</code> · <code>XGBoost</code> · <code>Random Forest</code>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4>⚙️ Customer Complaint Automation  <code>Automation</code></h4>
+<h4>⚙️ Customer Complaint Automation &nbsp;<code>Automation</code></h4>
 End-to-end automated workflow for Chef Seasons that collects product complaints from multiple channels and triggers personalized response emails, cutting manual processing time significantly.<br><br>
 <code>Skystudio</code> · <code>API Orchestration</code>
 </td>
 <td width="50%" valign="top">
-<h4>🔊 Text-to-Speech Tool  <code>Accessibility</code></h4>
+<h4>🔊 Text-to-Speech Tool &nbsp;<code>Accessibility</code></h4>
 Python-based text-to-speech conversion tool enabling automated MP3 audio generation from text inputs for content and accessibility workflows.<br><br>
 <code>Python</code> · <code>gTTS</code>
 </td>
@@ -251,12 +239,12 @@ Python-based text-to-speech conversion tool enabling automated MP3 audio generat
 <b>Education</b><br><br>
 <b>M.Sc. — Management Information Systems</b><br>
 Sakarya University, Business Institute · <code>Jan 2025 – Present</code><br>
-<em>Thesis: language-model training & fine-tuning for domain-specific NLP applications.</em><br><br>
-<b>B.Sc. — Physical Education & Sports Teaching</b><br>
+<em>Thesis: language-model training &amp; fine-tuning for domain-specific NLP applications.</em><br><br>
+<b>B.Sc. — Physical Education &amp; Sports Teaching</b><br>
 Hacettepe University, Faculty of Sport Sciences · <code>2006 – 2011</code>
 </td>
 <td width="50%" valign="top">
-<b>Certifications & Training</b><br><br>
+<b>Certifications &amp; Training</b><br><br>
 • <a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/dp-900.png"><b>DP-900: Azure Data Fundamentals</b></a> — KodeKloud, Oct 2024<br>
 • <a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/data-analyst-bootcamp.png"><b>Data Analyst Bootcamp</b></a> — Miuul, 2023 (140h)<br>
 • <a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/data-scientist-bootcamp.png"><b>Data Scientist Bootcamp</b></a> — Miuul, 2023 (4 mo)<br>
@@ -267,14 +255,7 @@ Hacettepe University, Faculty of Sport Sciences · <code>2006 – 2011</code>
 </tr>
 </table>
 
-`<sub>`Plus Miuul course certificates in
-`<a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/python.pdf">`Python`</a>` ·
-`<a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/sql.pdf">`SQL`</a>` ·
-`<a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/machine-learning.pdf">`Machine Learning`</a>` ·
-`<a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/feature-engineering.pdf">`Feature Engineering`</a>` ·
-`<a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/nlp.pdf">`NLP`</a>` ·
-`<a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/recommendation-systems.pdf">`Recommendation Systems`</a>` ·
-`<a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/crm-analytics.pdf">`CRM Analytics`</a>`.`</sub>`
+<sub>Plus Miuul course certificates in <a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/python.pdf">Python</a> · <a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/sql.pdf">SQL</a> · <a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/machine-learning.pdf">Machine Learning</a> · <a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/feature-engineering.pdf">Feature Engineering</a> · <a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/nlp.pdf">NLP</a> · <a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/recommendation-systems.pdf">Recommendation Systems</a> · <a href="https://github.com/GunalHincal/GunalHincal.github.io/blob/main/assets/certificates/crm-analytics.pdf">CRM Analytics</a>.</sub>
 
 <br>
 
